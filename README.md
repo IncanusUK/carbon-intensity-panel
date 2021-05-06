@@ -4,7 +4,7 @@ UK Carbon Intensity Panel on an electronic display with low intensity highlighti
 
 ![Carbon Intensity Panel](https://github.com/IncanusUK/carbon-intensity-panel/blob/main/display.jpg)
 
-The display gives the current carbon intensity for electricity within a given region in the UK (based on postcode). It also displays the next 24 hours forecast from the National Grid ESO using the https://api.carbonintensity.org.uk/ API. 
+The display gives the current carbon intensity for electricity in gCO2e/kWh and an intensity index for a given region in the UK (based on postcode). It also displays the next 24 hours forecast from the National Grid ESO using the https://api.carbonintensity.org.uk/ API. 
 
 The display will highlight the background (in yellow) if the current intensity is 'low' or 'very low' and also highlight the time in the forecast with the lowest intensity and any time that is 'low' or 'very low'.
 
